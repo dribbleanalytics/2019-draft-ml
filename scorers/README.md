@@ -4,11 +4,11 @@
 
 ## Data collection
 
-First, I created a database of all the shooting stats of projected first round picks who played in college and were drafted in or later than the 1990 draft. The oldest draft used is 1990 because the NCAA added the three-point line in the 1986-87 season, so players drafted in 1990 played their entire career with a three-point line.
+First, I created a database of all the shooting stats of projected first-round picks who played in college and were drafted in or later than the 1990 draft. The oldest draft used is 1990 because the NCAA added the 3-point line in the 1986-87 season, so players drafted in 1990 played their entire career with a 3-point line.
 
 College data was taken from [Sports Reference](http://sports-reference.com/cbb). NBA data was taken from [Basketball Reference](http://basketball-reference.com).
 
-The projected first round picks were taken from [the Ringer's NBA mock draft](http://nbadraft.theringer.com) as of 6/15 update.
+The projected first-round picks were taken from [the Ringer's NBA mock draft](http://nbadraft.theringer.com) as of 6/15 update.
 
 ## Model creation
 
